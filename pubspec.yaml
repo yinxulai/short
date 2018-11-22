@@ -1,6 +1,6 @@
 name: short
 description: My own component library.
-version: 0.0.1
+version: 0.0.2
 author: "Alain<yinxulai@hotmail.com>"
 homepage: "https://github.com/yinxulai/short.git"
 
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+    
 
 dev_dependencies:
   flutter_test:
