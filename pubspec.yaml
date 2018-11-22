@@ -1,8 +1,8 @@
 name: short
 description: A new Flutter package.
 version: 0.0.1
-author: Alain<yinxulai@hotmail.com>
-homepage: https://github.com/yinxulai/short.git
+author: "Alain<yinxulai@hotmail.com>"
+homepage: "https://github.com/yinxulai/short.git"
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
